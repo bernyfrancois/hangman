@@ -1,0 +1,14 @@
+.word__letter {
+    display: inline-block;
+    padding: 0.3rem;
+    font-size: 2rem;
+    background-color: #514F50;
+    color: #F7F2F4;
+    margin: 0.3rem;
+    text-align: center;
+    width: 2rem;
+}
+
+.word__letter.visible {
+    background-color: green;
+}

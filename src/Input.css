@@ -1,0 +1,18 @@
+.keybord__letter {
+    display: inline-block;
+    padding: 0.3rem;
+    font-size: 2rem;
+    background-color: #514F50;
+    color: #F7F2F4;
+    margin: 0.3rem;
+    text-align: center;
+    width: 2rem;
+    cursor: pointer;
+}
+
+.keybord__letter.matched {
+    background-color: #808080;
+    color: #b3b3b3;
+    cursor: none;
+    pointer-events: none;
+}
