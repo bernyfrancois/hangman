@@ -1,8 +1,9 @@
 import React from "react";
 import PropTypes from "prop-types"
+import "./Score.css"
 
 const Score = ({playerName, remainAttemps, score, wordLength, won}) => (
-    <div>
+    <div className={"score__container"}>
         <p>
             <span className={"player__name"}>Player : {playerName}</span><br/>
             <span className={"player__tours"}>Essaies restants : {remainAttemps}</span><br/>

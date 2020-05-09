@@ -1,0 +1,8 @@
+.score__container{
+    width: 100%;
+}
+
+.score__container span{
+    display: inline-block;
+    padding: 0.5rem;
+}

@@ -1,9 +1,52 @@
 @import url('https://fonts.googleapis.com/css?family=Bangers&display=swap');
-
+*{
+    margin: 0;
+    padding: 0;
+}
+.game__view .word{
+    padding-bottom: 2rem;
+}
+.game__view .word .word__letter{
+    font-size: 2.5rem;
+    width: 2rem;
+}
 .container {
     font-family: Bangers, cursive;
     font-size: 1.1rem;
     letter-spacing: 0.3rem;
-    padding: 0.5rem;
+    height: 100vh;
+    background: #020c17;
+    color: #fff;
+}
+
+@media (max-width: 480px){
+    .game__container{
+        flex-direction: column;
+    }
+}
+.game__container{
+    display: flex;
+}
+h1{
+    text-align: center;
+    padding: 4rem 0.5rem 2rem;
+}
+
+.game__details,.game__view{
+    display: flex;
+    padding: 1rem;
+}
+.game__details{
+    min-width: 40%;
+}
+
+button{
+    border: none;
+    background: none;
+    font-family: Bangers, cursive;
+    background: #fff;
+    font-size: 1rem;
+    padding: 0.3rem;
+    color: #000
 }
 

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c8d65b5-7223-4417-9920-22590ab96bb5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Score.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hangman__0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hangman__1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hangman__2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hangman__3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hangman__4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hangman__5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hangman__6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hangman__7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hangman__won.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/letters/001-letter-a.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/letters/002-letter-b.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/letters/003-letter-c.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/letters/004-letter-d.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/letters/005-letter-e.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/letters/006-letter-f.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/letters/007-letter-g.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/letters/008-letter-h.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/letters/009-letter-i.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/letters/010-letter-j.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/letters/011-letter-k.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/letters/012-letter-l.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/letters/013-letter-m.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/letters/014-letter-n.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/letters/015-letter-o.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/letters/016-letter-p.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/letters/017-letter-q.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/letters/018-letter-r.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/letters/019-letter-s.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/letters/020-letter-t.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/letters/021-letter-u.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/letters/022-letter-v.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/letters/023-letter-w.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/letters/024-letter-x.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/letters/025-letter-y.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/letters/026-letter-z.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/letters/027-ch.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/letters/028-th.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/letters/029-qu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/letters/030-oo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Score.js" beforeDir="false" afterPath="$PROJECT_DIR$/Score.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1be9awsd5fPLId6eJcfxZ7jqcXa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c8d65b5-7223-4417-9920-22590ab96bb5" name="Default Changelist" comment="" />
+      <created>1588981758770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588981758770</updated>
+      <workItem from="1588981761837" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>
